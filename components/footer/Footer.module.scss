@@ -1,7 +1,13 @@
 .FooterContainer {
-  width: 100%;
+  width: 80vw;
   height: 80px;
-  background-color: #dedede;
   position: absolute;
   bottom: 0;
+  left: 10vw;
+  right: 10vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-bottom: 10px;
+  font-size: 12px;
 }
