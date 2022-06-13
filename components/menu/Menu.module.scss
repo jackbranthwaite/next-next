@@ -1,0 +1,19 @@
+.MenuContainer {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.MenuLine {
+  background-color: #fff;
+  width: 30px;
+  height: 1px;
+  margin-bottom: 3px;
+}
+
+.MenuLineCenter {
+  background-color: #fff;
+  width: 30px;
+  height: 1px;
+  margin-bottom: 3px;
+}
